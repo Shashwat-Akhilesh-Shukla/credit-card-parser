@@ -1,0 +1,4 @@
+pdfplumber
+PyPDF2
+streamlit
+pandas

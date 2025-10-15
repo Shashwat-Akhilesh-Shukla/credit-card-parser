@@ -2,6 +2,10 @@
 
 https://credit-card-parser.streamlit.app/
 
+<img width="1082" height="799" alt="image" src="https://github.com/user-attachments/assets/cd163c48-19f3-4a50-a364-8ccc8c85f041" />
+
+
+
 A simple web application built with Streamlit that parses credit card statements from PDF files and extracts key financial data points.
 
 ## Features
